@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2010-09-09'
+AWSTemplateFormatVersion: '2020-05-30'
 Description: Lambda function with cfn-response.
 Resources:
   Function:
